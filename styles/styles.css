@@ -1,0 +1,13 @@
+
+body {
+    background-color: #f0f0f0; /* Light grey background */
+}
+
+#messageOutput {
+    background-color: #eb2c2c; /* Red background */
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* A subtle shadow for depth */
+    color: #333333; /* Darker text color for contrast */
+}
