@@ -3,6 +3,23 @@ body {
     background-color: #f0f0f0; /* Light grey background */
 }
 
+header {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 16px 0;
+    text-align: center;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Header H1 Styles */
+header h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 2rem;
+    
+}
+
 #messageOutput {
     background-color: #eb2c2c; /* Red background */
     padding: 20px;
